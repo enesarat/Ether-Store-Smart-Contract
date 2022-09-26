@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "sayHello",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"SuperMan.sol": "Man"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"SuperMan.sol": {
+			"keccak256": "0x120455c2474bbb4d4283ad573dcea2021b48115e028d1e6e52141c37025f0118",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ab3af94eb174576abdad773d4db0482ecf517e293e899a31a35af75782e63d55",
+				"dweb:/ipfs/QmdKriFqv8scueuyp91Vn6uAMGgPwbE9YiahzPrZYYWnxg"
+			]
+		}
+	},
+	"version": 1
+}
